@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="right" height="500" src="https://media.discordapp.net/attachments/777704579172270125/1373510271045210133/6kxdbg.jpg?ex=682aac9f&is=68295b1f&hm=471f56fca83e2f468d8dfe47478c4ba4426804efabfad826028aaf8572dc829a&=&format=webp&width=820&height=760"  />
 
 ###
