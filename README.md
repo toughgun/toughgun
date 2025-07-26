@@ -1,11 +1,3 @@
-<img align="right" height="500" src="https://drive.google.com/file/d/1ErcaYY5NN5-UstXL_Nb-tM3Gyiz83DYP/view?usp=sharing"  />
-
-###
-
-<h1 align="left">I need a weapon...</h1>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
