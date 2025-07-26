@@ -1,4 +1,4 @@
-<img align="right" height="500" src="https://cdn.discordapp.com/attachments/777704579172270125/1380058954855354378/6kxdbged.jpg?ex=6854f48f&is=6853a30f&hm=f48b84d75c3fc44059eb8d1cab1eed12f31aedcdf7cdca686128071699f73d84&width=820&height=760"  />
+<img align="right" height="500" src="https://drive.google.com/file/d/1ErcaYY5NN5-UstXL_Nb-tM3Gyiz83DYP/view?usp=sharing"  />
 
 ###
 
